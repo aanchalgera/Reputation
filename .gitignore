@@ -1,0 +1,5 @@
+/vendor/
+app/bootstrap*
+app/cache/
+nbproject
+
